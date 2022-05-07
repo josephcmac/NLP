@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/caballero/GitHub/NLP/minimumeditdistance/src/main/scala/helpers.scala:44:17: too many arguments (found 2, expected 1) for method apply: (i: Int): Array[Int] in class Array[0m
+[0m[[0m[31merror[0m] [0m[0m        t(m+1, n+1)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

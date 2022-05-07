@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/io/output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/output/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/io/output/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/output/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/io/output/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/input[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/io/input[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/input/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/io/input/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/input/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/io/input/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helpers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/helpers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helpers/helpers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/helpers/helpers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helpers/helpers/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/helpers/helpers/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helpers/helpers/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/helpers/helpers/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caballero/GitHub/NLP/minimumeditdistance/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
